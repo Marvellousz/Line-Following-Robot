@@ -31,7 +31,7 @@ The project consists of three main Arduino sketch files:
     - Blue: Fast speed
 
 
-### Obstacle Detection (linefollowingwithtcsanddet...)
+### Obstacle Detection (linefollowingwithtcsanddetection)
 
 - All features from previous versions
 - Ultrasonic sensor integration for obstacle detection

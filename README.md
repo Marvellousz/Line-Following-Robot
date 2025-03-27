@@ -10,7 +10,7 @@ The project consists of three main Arduino sketch files:
 
 1. **linefollowing.ino** - Basic line following functionality
 2. **linefollowingwithtcs3200.ino** - Line following with color detection
-3. **linefollowingwithtcsanddet...** - Line following with color detection and ultrasonic obstacle detection
+3. **linefollowingwithtcsanddetection** - Line following with color detection and ultrasonic obstacle detection
 
 ## Features
 

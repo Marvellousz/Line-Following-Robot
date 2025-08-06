@@ -1,4 +1,4 @@
-# Line Following Robot Project
+# line following robot project
 
 ## Overview
 
@@ -83,6 +83,7 @@ Each version of the code includes configurable parameters:
 ## License
 
 This project is open source and available under the MIT License.
+
 
 
 
